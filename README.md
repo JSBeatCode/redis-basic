@@ -1,3 +1,5 @@
+https://github.com/redis/redis/releases 에서 zip 다운로드
+
 redis-server 시작
 redis-cli 접속
 
